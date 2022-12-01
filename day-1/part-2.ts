@@ -1,5 +1,3 @@
-export const a = 1;
-
 const input = await Deno.readTextFile("./input.txt");
 
 const foodByElf = input
